@@ -1,0 +1,18 @@
+[
+    {
+      "id": "home",
+      "title": "Home Page",
+      "content": "Welcome to the Home Page! This is where the homepage content will be displayed."
+    },
+    {
+      "id": "about",
+      "title": "About Us",
+      "content": "This is the About Us page, where you can learn more about our company."
+    },
+    {
+      "id": "contact",
+      "title": "Contact Us",
+      "content": "This page contains contact information to get in touch with us."
+    }
+  ]
+  

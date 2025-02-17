@@ -1,7 +1,7 @@
 # Dynamic-Webpage
 Dynamic Navbar with JSON Data
 GitHub Repository:
-
+https://manikantadev34.github.io/Dynamic-Webpage/
 
 This project demonstrates a dynamic navbar that loads content from a JSON file and displays it based on user interaction with the navbar links.
 
